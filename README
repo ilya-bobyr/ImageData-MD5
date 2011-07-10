@@ -1,4 +1,4 @@
-Calculates and MD5 of the pixels color data.  Skips alpha channel values.
+Calculates an MD5 of an image pixels color data.  Skips alpha channel values.
 
 Most of the "meat" is taken from http://pajhome.org.uk/crypt/md5/index.html but
 repackaged to deal with an ImageData object.
